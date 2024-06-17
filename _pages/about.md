@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Madi! I am currently a senior at Michigan State University, working towards a BS in Computer Science alongside studies in Game Design & Development, with a focus in art. Throughout my time at MSU, I've engaged in several collaborative indie video game projects, which have significantly improved my technical and artistic skills.
+Hi, I'm Madi! I am currently a senior at Michigan State University working towards a BS in Computer Science. Additionally, I am pursuing the Game Design & Development minor with a focus in art. Throughout my time at MSU, I've engaged in several collaborative indie video game projects, which have significantly improved my technical and artistic skills.
 
-Outside of class, you will likely find me playing video games, doing colorguard, or baking.
+Outside of class, you will likely find me playing video games, practicing colorguard, or baking.
