@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of projects I have worked on.
 nav: true
 nav_order: 3
-display_categories: [MSU, Game Jams]
+display_categories: # [MSU, Game Jams]
 horizontal: false
 ---
 

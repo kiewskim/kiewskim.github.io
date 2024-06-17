@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Snaccharine
+description: A casual 2D pixel top-down survival that immerses the player into a magical candy kingdom!
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://bilalsaqib19.itch.io/snaccarine
 importance: 3
-category: MSU
+category:
 ---
 
 Every project has a beautiful feature showcase page.
