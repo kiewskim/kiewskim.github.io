@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Arcanic Mechanic
-description: A magepunk first-person puzzle shooter where you craft the best weapon combo to dismantle your foes.
-img: assets/img/7.jpg
+description: A magepunk first-person puzzle shooter where you craft the best weapon combo to dismantle your foes. Currently in the works for a massive revamp in Unreal Engine 5.
+img: assets/img/arcanic_mechanic.jpg
 redirect: https://alexgabbard86.itch.io/arcanic-mechanic
 importance: 3
 category:

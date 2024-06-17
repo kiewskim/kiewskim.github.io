@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Hamster Havoc
-description: Build wild combos in this chaotic action-destruction game where you play as a hamster seeking revenge on it's corporate captors.
-img: assets/img/hamster_havoc.jpg
-redirect: https://planebound.itch.io/hamster-havoc
+title: My Itch.io Page
+description: Find my other projects here!
+img: assets/img/pfp.jpg
+redirect: https://alexgabbard86.itch.io/arcanic-mechanic
 importance: 3
 category:
 ---
