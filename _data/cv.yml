@@ -15,7 +15,7 @@
   contents:
     - title: Bachelor of Science
       institution: Michigan State University
-      year: May 2021 - Dec 2025
+      year: 05/2021
       description:
         - Computer Science
         - title: Game Design & Development Minor
@@ -29,7 +29,7 @@
   contents:
     - title: Manager
       institution: Hungry Howies
-      year: March 2021
+      year: 03/2021
       description:
         - Description 1.
         - Description 2.
@@ -39,7 +39,7 @@
             - Sub-description 2.
     - title: Colorguard Instructor
       institution: DeWitt High School Marching Band
-      year: May 2021 - Nov 2023
+      year: 5/2021-11/2023
       description:
         - Description 1.
         - Description 2.
