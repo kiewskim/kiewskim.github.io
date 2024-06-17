@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science and Game Art & Development student at Michigan State University
+subtitle: Computer Science and Game Design & Development student at Michigan State University
 
 profile:
   align: right
