@@ -15,7 +15,7 @@
   contents:
     - title: Bachelor of Science
       institution: Michigan State University
-      year: May 2021 - December 2025
+      year: May 2021 - Dec 2025
       description:
         - Computer Science
         - title: Game Design & Development Minor
@@ -39,7 +39,7 @@
             - Sub-description 2.
     - title: Colorguard Instructor
       institution: DeWitt High School Marching Band
-      year: May 2021 - November 2023
+      year: May 2021 - Nov 2023
       description:
         - Description 1.
         - Description 2.
@@ -49,9 +49,7 @@
   contents:
     - title: Clubs
       items:
-        - title: Spartasoft
-          contents:
-            - Game development club at MSU.
+        - Spartasoft
 
 - title: Skills
   type: nested_list
