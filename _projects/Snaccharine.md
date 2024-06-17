@@ -4,7 +4,7 @@ title: Snaccharine
 description: A casual 2D pixel top-down survival that immerses the player into a magical candy kingdom!
 img: assets/img/snaccharine.jpg
 redirect: https://bilalsaqib19.itch.io/snaccarine
-importance: 3
+importance: 1
 category:
 ---
 

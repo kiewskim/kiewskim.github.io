@@ -4,7 +4,7 @@ title: Hamster Havoc
 description: Build wild combos in this chaotic action-destruction game where you play as a hamster seeking revenge on it's corporate captors.
 img: assets/img/hamster_havoc.jpg
 redirect: https://planebound.itch.io/hamster-havoc
-importance: 3
+importance: 1
 category:
 ---
 
