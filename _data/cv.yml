@@ -31,18 +31,21 @@
       institution: Hungry Howies
       year: 03/2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Provided exceptional customer service by completing orders promptly and with a friendly demeanor
+        - Observed quality and safety standards for safe food handling practices
+        - title: Performed opening and closing procedures to beyond desired standards
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Accurately handled transactions and maintained proper documentation of tips
+            - Maximized employee performance with hands-on training and close mentoring
     - title: Colorguard Instructor
       institution: DeWitt High School Marching Band
       year: 5/2021-11/2023
       description:
-        - Description 1.
-        - Description 2.
+        - Choreographed award-winning adaptations of musical compositions to win championships
+        - title: Organized and conducted engaging rehearsals
+          contents:
+            - Developed students skills with thorough demonstrations and instruction of correct technique
+            - Improved team performance and endurance with effective athletic conditioning
 
 - title: Extracurriculars
   type: nested_list
